@@ -13,4 +13,3 @@
 ![Add_images](https://github.com/Tralbreaker001/mobile_app/blob/project/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-23%20204731.png?raw=true)
 ### При нажатие на кнопку «Мои заяки» вы перейдете на страницу со всеми заявками на закупку, которые вы создали. Снизу каждой заяки будет указан текущий статус её выполнения.
 ![Add_images](https://github.com/Tralbreaker001/mobile_app/blob/project/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-23%20204811.png?raw=true)
-# Что сделано
