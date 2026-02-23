@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">КСК служба заказа олборудования</string>
+    
+    <!-- Логин -->
+    <string name="login_title">Добро пожаловать в КСК служба заказа оборудования</string>
+    <string name="login_subtitle">Cлужба заказа оборудования</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="btn_login">Войти</string>
+    <string name="error_login">Неверный логин или пароль</string>
+    <string name="test_accounts">Тестовые аккаунты:\nЗаказчик: zakazchik / 123\nМенеджер: manager / 123</string>
+    
+    <!-- Заказчик -->
+    <string name="customer_welcome">Добро пожаловать!</string>
+    <string name="btn_create_request">Создать заявку</string>
+    <string name="btn_my_requests">Мои заявки</string>
+    
+    <!-- Менеджер -->
+    <string name="manager_welcome">Панель менеджера</string>
+    <string name="btn_view_requests">Заявки заказчиков</string>
+    <string name="btn_view_orders">Просмотр заказов</string>
+    
+    <!-- Заявки -->
+    <string name="create_request_title">Создание заявки</string>
+    <string name="my_requests_title">Мои заявки</string>
+    <string name="hint_equipment">Наименование оборудования</string>
+    <string name="hint_description">Описание / требования</string>
+    <string name="hint_quantity">Количество (шт.)</string>
+    <string name="btn_create">Создать</string>
+    <string name="btn_back">Назад</string>
+    <string name="request_created">Заявка создана!</string>
+    
+    <!-- Заказы -->
+    <string name="create_order_title">Создание заказа</string>
+    <string name="all_orders_title">Все заказы</string>
+    <string name="edit_order_title">Редактирование заказа</string>
+    <string name="hint_customer">Заказчик</string>
+    <string name="hint_responsible">Ответственный исполнитель</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_create_order">Создать заказ</string>
+    <string name="order_created">Заказ создан!</string>
+    <string name="changes_saved">Изменения сохранены!</string>
+    
+    <!-- Общие -->
+    <string name="quantity_format">Кол-во: %d шт.</string>
+    <string name="select_item">Выберите элемент из списка</string>
+</resources>
